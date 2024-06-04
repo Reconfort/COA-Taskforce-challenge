@@ -131,7 +131,7 @@ body {
 @media only screen and (max-width: 767px) {
   .container {
     width: 90%;
-    height: 60vh;
+    height: 50vh;
   }
   .card .info {
     opacity: 0;
