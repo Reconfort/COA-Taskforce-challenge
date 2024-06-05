@@ -69,13 +69,12 @@ body {
   flex-direction: column;
   gap: 10px;
   justify-content: end;
-  /* background-color: rgba(24, 87, 87, 0.445); */
   align-items: start;
 }
 
 .card .info h1 {
   width: 50%;
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 
 .card .info p {
