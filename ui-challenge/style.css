@@ -80,7 +80,7 @@ body {
 .card .info p {
   transform: translateY(20px);
   font-weight: 200;
-  color: #fee
+  color: #D3D3D3
 }
 
 .card:hover .info p {
